@@ -1,4 +1,4 @@
-Decentrailize NFT
+Decentrailize NFT Marketplace
 1. ListItem : List nft item in market
 2. BuyItem : Buy nft item from market
 3. CancelItem : Cancel a listing 
